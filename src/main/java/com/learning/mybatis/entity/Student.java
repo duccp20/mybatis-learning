@@ -1,7 +1,5 @@
 package com.learning.mybatis.entity;
 
-
-import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 
